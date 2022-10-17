@@ -1,0 +1,16 @@
+{
+  "name": "back-end-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casual": "^1.6.2"
+  }
+}
